@@ -31,7 +31,7 @@ p {
 	width: 900px;
 	margin: 0 auto;
 	padding: 150px 0 0 0;
-	background: url(../images/birds.png) center 85px no-repeat;
+	background: url(./images/birds.png) center 85px no-repeat;
 }
 
 #container div {
